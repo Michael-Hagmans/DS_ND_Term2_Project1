@@ -2,11 +2,7 @@
 
 **Libraries:**
 
-I used the following libraries:
-pandas
-numpy
-matplotlib
-sklearn
+I used the libraries pandas, numpy, matplotlib and sklearn.
 
 **Motivation:**
 
