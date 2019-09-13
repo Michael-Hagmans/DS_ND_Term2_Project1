@@ -26,6 +26,9 @@ The lasso regressions show which fields where used most often. Those fields seem
 **Acknowledgement:**
 
 When I created I was working on this project I found help here:
+
 https://www.geeksforgeeks.org/clean-the-string-data-in-the-given-pandas-dataframe/
+
 https://datascience.stackexchange.com/questions/38914/a-single-column-has-many-values-per-row-separated-by-a-comma-how-to-create-an
+
 https://matplotlib.org/3.1.1/gallery/lines_bars_and_markers/barh.html
